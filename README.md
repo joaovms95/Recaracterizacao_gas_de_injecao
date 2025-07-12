@@ -1,0 +1,3 @@
+#O arquivo "Recaracterizacao_gas_de_injecao" tem como objetivo recaracterizar um gás de injeção utilizado em teste de inchamento para conter os mesmos pseudocomponentes de uma dada mistura de hidrocarbonetos. Os cálculos se encontram no contexto da dissertação de mestrado de Silva (2025), e devem ser executados em Scilab.
+
+#SILVA, João Victor de Moraes. Modelagem de testes de inchamento de misturas de petróleo e gás carbônico. 2025. 154 f. Dissertação (Mestrado) - Curso de Engenharia Química, Programa de Pós-Graduação em Engenharia Química, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 2025.
